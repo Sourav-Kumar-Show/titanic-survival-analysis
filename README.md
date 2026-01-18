@@ -62,4 +62,4 @@ Basic supervised learning models were used to predict passenger survival.
 ---
 
 ## 📌 Project Status
-✅ Completed — further improvements such as model tuning and feature engineering can be added
+🔄 Ongoing 
